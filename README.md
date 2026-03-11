@@ -1,5 +1,3 @@
-# -my-project
-building ai course project
 # Smart Cabin Advisor
 
 Final project for the Building AI course
